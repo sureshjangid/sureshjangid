@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sureshjangid
-- 👀 I’m interested in UI UX Desingne and Full-Stack Web Developer
+- 👀 I’m interested in UI Desingne and Full-Stack Web Developer
 - 🌱 I’m currently learning JavaScript
 
 
