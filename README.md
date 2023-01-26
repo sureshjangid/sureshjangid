@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sureshjangid
-- 👀 I’m interested in UI Desingne and Full-Stack Web Developer
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in UI Desingner and Mern Stack
+- 
 
 
 <!---
