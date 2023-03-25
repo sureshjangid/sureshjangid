@@ -1,4 +1,4 @@
-I am a Web and Software developer with 2+ years of experience working in the Web, Software,  Google Ads & google AdSense fields. I am currently working full-time and freelancing too. I have worked on Different types of projects.
+I am a Web and Software developer with 2+ years of experience working in the Web, Software,  Google Ads & google AdSense fields. I am currently working full-time.I I have worked on Different types of projects.
 
  I have experience developing and implementing solutions to help these companies build and market their web-based products.
 
