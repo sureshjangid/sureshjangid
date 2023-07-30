@@ -1,4 +1,4 @@
-● As a passionate software developer with 2 years of experience in ReactJs, I strive to create elegant, efficient, and user-friendly web applications. 
+● As a passionate software developer with 2+ years of experience in ReactJs, I strive to create elegant, efficient, and user-friendly web applications. 
 
 ● My expertise lies in developing robust web applications and RESTful APIs using ReactJs and NodeJs.
 
