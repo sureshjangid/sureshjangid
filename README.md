@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suresh Jangid</h1>
-<h3 align="center">Hi there! I'm Suresh Jangid a passionate and experienced Software Developer with a focus on React.js and Node.js. With 2 years of hands-on experience in the field, I'm dedicated to creating responsive and engaging web applications.</h3>
+<h3 align="center">Hi there! I'm Suresh Jangid a passionate and experienced Software Developer focusing on React.js and Node.js. With 2 years of hands-on experience in the field, I'm dedicated to creating responsive and engaging web applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sureshjangid" alt="sureshjangid" /></a> </p>
 
@@ -11,10 +11,18 @@
 
 - 📫 How to reach me **sureshjangir902@gmail.com**
 
-- 📄 Know about my experiences <br>
-   [- **Front-End Development**: Proficient in building dynamic and interactive user interfaces using React.js. Skilled in crafting pixel-perfect designs and optimizing performance for exceptional user experiences.
-   - **Back-End Development**: Experienced in developing server-side logic using Node.js, Express, and other related technologies. Familiar with creating APIs, handling authentication, and working with databases.
-    - **Full-Stack Proficiency**: Capable of seamlessly integrating front-end and back-end components to create comprehensive and feature-rich web Software.]
+- 📄 **Know about my experiences:**
+  - **Front-End Development:**
+    - Proficient in building dynamic and interactive user interfaces using React.js.
+    - Skilled in crafting pixel-perfect designs and optimizing performance for exceptional user experiences.
+
+  - **Back-End Development:**
+    - Experienced in developing server-side logic using Node.js, Express, and other related technologies.
+    - Familiar with creating APIs, handling authentication, and working with databases.
+
+  - **Full-Stack Proficiency:**
+    - Capable of seamlessly integrating front-end and back-end components to create comprehensive and feature-rich web software.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
