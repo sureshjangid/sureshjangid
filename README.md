@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Greetings, I'm Suresh Jangid</h1>
   <p>
-    Welcome to my coding realm! I'm Suresh Jangid, an ardent Software Developer with a profound focus on the dynamic duo: React.js and Node.js. Backed by a prolific 2-year journey in this ever-evolving realm, I am resolute in crafting immersive web applications that seamlessly adapt to various devices.
+    Welcome to my coding realm! I'm Suresh Jangid, an ardent Software Developer with a profound focus on the dynamic duo: React.js and Node.js. Backed by a prolific 2+ yrs journey in this ever-evolving realm, I am resolute in crafting immersive web applications that seamlessly adapt to various devices.
   </p>
   <p>
     My journey goes beyond just lines of code. I've been the mastermind behind transforming concepts into reality from scratch, steering the development of cutting-edge products for esteemed companies. Collaboratively, I've played a pivotal role in crafting innovative solutions that redefine user experiences and streamline complex functionalities.
