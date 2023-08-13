@@ -11,7 +11,10 @@
 
 - 📫 How to reach me **sureshjangir902@gmail.com**
 
-- 📄 Know about my experiences [- **Front-End Development**: Proficient in building dynamic and interactive user interfaces using React.js. Skilled in crafting pixel-perfect designs and optimizing performance for exceptional user experiences. - **Back-End Development**: Experienced in developing server-side logic using Node.js, Express, and other related technologies. Familiar with creating APIs, handling authentication, and working with databases. - **Full-Stack Proficiency**: Capable of seamlessly integrating front-end and back-end components to create comprehensive and feature-rich web Software.](- **Front-End Development**: Proficient in building dynamic and interactive user interfaces using React.js. Skilled in crafting pixel-perfect designs and optimizing performance for exceptional user experiences. - **Back-End Development**: Experienced in developing server-side logic using Node.js, Express, and other related technologies. Familiar with creating APIs, handling authentication, and working with databases. - **Full-Stack Proficiency**: Capable of seamlessly integrating front-end and back-end components to create comprehensive and feature-rich web Software.)
+- 📄 Know about my experiences
+   [- **Front-End Development**: Proficient in building dynamic and interactive user interfaces using React.js. Skilled in crafting pixel-perfect designs and optimizing performance for exceptional user experiences.
+   - **Back-End Development**: Experienced in developing server-side logic using Node.js, Express, and other related technologies. Familiar with creating APIs, handling authentication, and working with databases.
+    - **Full-Stack Proficiency**: Capable of seamlessly integrating front-end and back-end components to create comprehensive and feature-rich web Software.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
