@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suresh Jangid</h1>
-<h3 align="center">Hi there! I'm Suresh Jangid a passionate and experienced Software Developer focusing on React.js and Node.js. With 2 years of hands-on experience in the field, I'm dedicated to creating responsive and engaging web applications.</h3>
+<p align="center">Hi there! I'm Suresh Jangid a passionate and experienced Software Developer focusing on React.js and Node.js. With 2 years of hands-on experience in the field, I'm dedicated to creating responsive and engaging web applications.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sureshjangid" alt="sureshjangid" /></a> </p>
-
-- ### Project 1: E-Commerce Website [Developed a full-fledged e-commerce website using React.js and Node.js. Implemented product catalog, shopping cart, and payment gateway functionalities.](https://e-com-nine.vercel.app/)
-
-- ### Project 2: Real-Time Chat Application [https://github.com/sureshjangid/chatapp](https://github.com/sureshjangid/chatapp)
 
 - 💬 Ask me about **React, RTK, Node, Express, MongoDB, Firebase, PHP, MySql**
 
