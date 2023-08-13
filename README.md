@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React, RTK, Node, Express, MongoDB, Firebase, PHP, MySql**
 
-- 📫 How to reach me **sureshjangir902@gmail.com**
+- 📫 How to reach me **sureshjangir902@gmail.com** || **+91 8106296942**
 
 - 📄 **Know about my experiences:**
   - **Front-End Development:**
