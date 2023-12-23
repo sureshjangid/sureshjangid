@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sureshjangid" alt="sureshjangid" /></a> </p>
 
-- 💬 Ask me about **TypeScript, JavaScript, ReactJs, RTK, NextJs, Node, Express, MongoDB, Firebase, PHP, MySql**
+- 💬 Ask me about **TypeScript, JavaScript,  ReactJs, RTK, NextJs, Node, Express, MongoDB, Firebase, PHP, Laravel, MySql, Prisma, ShadCn UI,Bootstrap, Tailwind Css**
 
 - 📫 How to reach me **sureshjangir902@gmail.com** || **+91 8106296942**
 
