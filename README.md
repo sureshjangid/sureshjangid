@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Greetings, I'm Suresh Jangid</h1>
   <p>
-    Welcome to my coding realm! I'm Suresh Jangid, an ardent Software Developer with a profound focus on the dynamic duo: React.js and Node.js. Backed by a prolific 3.5+ yrs journey in this ever-evolving realm, I am resolute in crafting immersive web applications that seamlessly adapt to various devices.
+ Hello, I'm a dreamer who, by mistake, became a software developer.
   </p>
   <p>
     My journey goes beyond just lines of code. I've been the mastermind behind transforming concepts into reality from scratch, steering the development of cutting-edge products for esteemed companies. Collaboratively, I've played a pivotal role in crafting innovative solutions that redefine user experiences and streamline complex functionalities.
@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sureshjangid" alt="sureshjangid" /></a> </p>
 
-- 💬 Ask me about **TypeScript, JavaScript,  ReactJs, RTK, NextJs, Node, Express, MongoDB, Firebase, PHP, Laravel, MySql, Prisma, ShadCn UI,Bootstrap, Tailwind Css**
+- 💬 Ask me about **TypeScript, JavaScript,  ReactJs, RTK, NextJs, Node, Express, MongoDB, Firebase, PHP, Laravel, MySql, Prisma, ShadCn UI, Bootstrap, Tailwind Css**
 
 - 📫 How to reach me **sureshjangir902@gmail.com** || **+91 8106296942**
 
